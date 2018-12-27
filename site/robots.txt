@@ -1,0 +1,5 @@
+Sitemap: https://hebden-hargreaves.co.uk/sitemap.xml
+Sitemap: https://hebden-hargreaves.co.uk/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
